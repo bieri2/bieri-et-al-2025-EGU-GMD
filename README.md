@@ -2,7 +2,7 @@
 
 This branch includes HRLDAS/Noah-MP v4.5-WRF with a dynamic root scheme that simulates deep root water uptake. See [Fan et al. (2017)](https://doi.org/10.1073/pnas.1712381114) for details on the root scheme. This version of the model also includes additional resolved soil layers and soil properties which vary with depth according to an exponential decay function ([Miguez-Macho and Fan 2012](https://doi.org/10.1029/2012JD017539)). 
 
-Please contact Carolina Bieri, University of Illinois at Urbana-Champaign (bieri2@illinois.edu) with any questions about the code in this repository.
+Please contact Carolina Bieri (cab478@ucar.edu) with any questions about the code in this repository.
 
 Please see the accompanying publication for information on the development of this version of HRLDAS/Noah-MP. 
 
