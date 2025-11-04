@@ -6,4 +6,4 @@ There are three branches in this repository, each with different versions of HRL
 - **release-v4.5-WRF**: This is the release of HRLDAS/Noah-MP which served as the basis for our simulations and model development. It is also the version used for the GW experiment described in the publication.
 - **fd:** Version of HRLDAS/Noah-MP with free drainage configuration. This version was used for the FD (control) experiment described in the publication.
 
-Information on downloading, compiling, and running HRLDAS/Noah-MP can be found at https://github.com/NCAR/hrldas. Questions about the code in this repository can be directed to Carolina Bieri, University of Illinois Urbana-Champaign (bieri2@illinois.edu).
+Information on downloading, compiling, and running HRLDAS/Noah-MP can be found at https://github.com/NCAR/hrldas. Questions about the code in this repository can be directed to Carolina Bieri (cab478@ucar.edu).
