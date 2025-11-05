@@ -4,7 +4,7 @@ This branch includes HRLDAS/Noah-MP v4.5-WRF with a dynamic root scheme that sim
 
 Please contact Carolina Bieri (cab478@ucar.edu) with any questions about the code in this repository.
 
-Please see the accompanying publication for information on the development of this version of HRLDAS/Noah-MP. 
+Please see the accompanying publication ([Bieri et al. 2025](https://doi.org/10.5194/gmd-18-3755-2025)) for information on the development of this version of HRLDAS/Noah-MP. 
 
 Running this version of HRLDAS/Noah-MP is similar to running [version 4.5](https://github.com/NCAR/hrldas/tree/release-v4.5-WRF). However, there are a few changes to namelist options and output variables.
 
